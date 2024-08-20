@@ -19,5 +19,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "volta": {
+    "node": "22.6.0",
+    "yarn": "1.22.22"
+  }
 }
